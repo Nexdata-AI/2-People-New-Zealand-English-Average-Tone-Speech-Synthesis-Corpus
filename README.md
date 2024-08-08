@@ -2,7 +2,7 @@
 
 ## Description
 2 People - New Zealand English Average Tone Speech Synthesis Corpus. It is recorded by rn native New Zealanders, with authentic accent. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1350?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1350?source=Github
 
 
 ## Format
